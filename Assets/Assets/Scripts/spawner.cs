@@ -21,7 +21,6 @@ public class CharacterSpawner : MonoBehaviour
     {
         for (int i = 0; i < numberOfCharacters; i++)
         {
-            
             Vector2 randomPosition = new Vector2(Random.Range(-spawnXRadius, spawnXRadius), Random.Range(-spawnYRadius, spawnYRadius)); // Adjust random area as needed
             GameObject newAvci = Instantiate(avci, randomPosition, Quaternion.identity);
             GameObject newAv = Instantiate(av, randomPosition, Quaternion.identity);
