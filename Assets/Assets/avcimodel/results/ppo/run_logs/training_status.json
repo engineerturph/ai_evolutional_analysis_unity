@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    },
+    "Avci Behavior": {
+        "checkpoints": [
+            {
+                "steps": 500159,
+                "file_path": "results\\ppo\\Avci Behavior\\Avci Behavior-500159.onnx",
+                "reward": null,
+                "creation_time": 1716487792.5965157,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Avci Behavior\\Avci Behavior-500159.pt"
+                ]
+            },
+            {
+                "steps": 500159,
+                "file_path": "results\\ppo\\Avci Behavior\\Avci Behavior-500159.onnx",
+                "reward": null,
+                "creation_time": 1716488020.38442,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Avci Behavior\\Avci Behavior-500159.pt"
+                ]
+            },
+            {
+                "steps": 500159,
+                "file_path": "results\\ppo\\Avci Behavior\\Avci Behavior-500159.onnx",
+                "reward": null,
+                "creation_time": 1716488204.3835428,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Avci Behavior\\Avci Behavior-500159.pt"
+                ]
+            },
+            {
+                "steps": 540383,
+                "file_path": "results\\ppo\\Avci Behavior\\Avci Behavior-540383.onnx",
+                "reward": 1.500730022302984,
+                "creation_time": 1716488426.8623552,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Avci Behavior\\Avci Behavior-540383.pt"
+                ]
+            },
+            {
+                "steps": 729385,
+                "file_path": "results\\ppo\\Avci Behavior\\Avci Behavior-729385.onnx",
+                "reward": null,
+                "creation_time": 1716489724.1245315,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Avci Behavior\\Avci Behavior-729385.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 729385,
+            "file_path": "results\\ppo\\Avci Behavior.onnx",
+            "reward": null,
+            "creation_time": 1716489724.1245315,
+            "auxillary_file_paths": [
+                "results\\ppo\\Avci Behavior\\Avci Behavior-729385.pt"
+            ]
+        }
+    },
+    "avci_behavior": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\ppo\\avci_behavior\\avci_behavior-0.onnx",
+                "reward": null,
+                "creation_time": 1716488088.5148127,
+                "auxillary_file_paths": [
+                    "results\\ppo\\avci_behavior\\avci_behavior-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results\\ppo\\avci_behavior.onnx",
+            "reward": null,
+            "creation_time": 1716488088.5148127,
+            "auxillary_file_paths": [
+                "results\\ppo\\avci_behavior\\avci_behavior-0.pt"
+            ]
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Av Behavior": {
+        "checkpoints": [
+            {
+                "steps": 257466,
+                "file_path": "results\\ppo\\Av Behavior\\Av Behavior-257466.onnx",
+                "reward": 12.728552235798402,
+                "creation_time": 1716492599.901251,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Av Behavior\\Av Behavior-257466.pt"
+                ]
+            },
+            {
+                "steps": 499950,
+                "file_path": "results\\ppo\\Av Behavior\\Av Behavior-499950.onnx",
+                "reward": 60.86793665452437,
+                "creation_time": 1716492993.58173,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Av Behavior\\Av Behavior-499950.pt"
+                ]
+            },
+            {
+                "steps": 500654,
+                "file_path": "results\\ppo\\Av Behavior\\Av Behavior-500654.onnx",
+                "reward": 60.86793665452437,
+                "creation_time": 1716492993.6954796,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Av Behavior\\Av Behavior-500654.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500654,
+            "file_path": "results\\ppo\\Av Behavior.onnx",
+            "reward": 60.86793665452437,
+            "creation_time": 1716492993.6954796,
+            "auxillary_file_paths": [
+                "results\\ppo\\Av Behavior\\Av Behavior-500654.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
