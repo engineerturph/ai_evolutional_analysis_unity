@@ -3,14 +3,7 @@
 ## Overview
 Hunter vs Prey is an engaging machine learning project developed using Unity. This project simulates a predator-prey scenario, providing a fascinating exploration of AI and game mechanics.
 
-## Getting Started
-
-### Prerequisites
-Make sure you have the following installed on your system:
-- [Unity Hub](https://unity3d.com/get-unity/download)
-- Git
-
-### Installation Steps
+## Installation Steps
 1. **Clone the Repository**  
    Open your terminal or command prompt and run the following command:
    ```bash
